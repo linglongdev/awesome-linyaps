@@ -15,3 +15,12 @@
 [plantuml](https://github.com/linglongdev/com.plantuml.gpl) - 一个java应用，使用编程的方式绘制流程图
 
 [org.sumatrapdfreader](https://github.com/linglongdev/org.sumatrapdfreader) - 一个wine应用，pdf阅读器
+
+## 三方工具
+[ll-killer](https://github.com/System233/ll-killer-go) 专为解决玲珑容器应用构建问题而设计的命令行工具
+
+[linglong-tools](https://github.com/myml/linglong-tools) 一个玲珑的命令行辅助工具
+
+[linglong-tools](https://github.com/System233/linglong-tools) 玲珑自动化deb转制工具 
+
+[linglong-builder-action](https://github.com/myml/linglong-builder-action) github action构建玲珑包
