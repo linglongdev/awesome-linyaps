@@ -24,6 +24,8 @@
 
 [org.sumatrapdfreader](https://github.com/linglongdev/org.sumatrapdfreader) - 一个wine应用，pdf阅读器
 
+[git-commit-helper](https://github.com/linglongdev/git-commit-helper) - 一个rust命令行，结合AI生成git commit和git review
+
 ## 三方工具
 
 [ll-killer](https://github.com/System233/ll-killer-go) 专为解决玲珑容器应用构建问题而设计的命令行工具
