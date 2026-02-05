@@ -22,7 +22,7 @@
 
 [electron](https://github.com/myml/electron-vue-linyaps-app) - electron + vue 例子
 
-[cn.linyaps.tauri.demo](https://github.com/linglongdev/cn.linyaps.tauri.demo) - tauri demo
+[cn.linyaps.tauri.demo](https://github.com/linglongdev/cn.linyaps.tauri.demo) - tauri(webkit) demo
 
 [plantuml](https://github.com/linglongdev/com.plantuml.gpl) - 一个java应用，使用编程的方式绘制流程图
 
@@ -40,5 +40,5 @@
 
 [myml/linglong-builder-action](https://github.com/myml/linglong-builder-action) github action构建玲珑包
 
-[myml/linglong-builder-docker](https://github.com/myml/linglong-builder-docker) ll-builder in docker(podman)
+[myml/linglong-builder-docker](https://github.com/myml/linglong-builder-docker) ll-builder in docker (podman)
 
