@@ -39,4 +39,5 @@
 [System233/linglong-tools](https://github.com/System233/linglong-tools) 玲珑自动化deb转制工具 
 
 [myml/linglong-builder-action](https://github.com/myml/linglong-builder-action) github action构建玲珑包
+[myml/linglong-builder-docker](https://github.com/myml/linglong-builder-docker) ll-builder in docker(podman)
 
