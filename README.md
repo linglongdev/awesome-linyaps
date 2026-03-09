@@ -28,7 +28,11 @@
 
 [org.sumatrapdfreader](https://github.com/linglongdev/org.sumatrapdfreader) - 一个wine应用，pdf阅读器
 
-[git-commit-helper](https://github.com/linglongdev/git-commit-helper) - 一个rust命令行，结合AI生成git commit和git review
+[git-commit-helper](https://github.com/linglongdev/git-commit-helper) - 一个rust命令行工具，结合AI生成git commit和git review
+
+[fyne demo](https://github.com/linglongdev/com.github.linglongdev.fynedemo) - 一个golang写的图形界面，演示怎么在linglongdev构建golang应用
+
+[OpenCode](https://github.com/linglongdev/ai.opencode) - 一个noejs命令行工具，验证怎么在linglongdev构建nodejs应用
 
 ## 三方工具
 
